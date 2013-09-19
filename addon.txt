@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Environment-Systems"
+	"version"     "1"
+	"author_name" "SoTotallyXray"
+	"author_url"  ""
+	"info"        ""
+	"override"    "0"
+}
