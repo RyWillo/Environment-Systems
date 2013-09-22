@@ -3,16 +3,30 @@ Environment-Systems
 
 Feel Free To Commit Towards This Project!
 
-THIS IS FOR GMOD 13! 
+THIS IS FOR GMOD 13!
 
 
---------
-
-THIS IS A DEV BUILD of this project! 
-
---
+=======
 INSTALL
---
-To install this DEV build please place the addon into your servers/clients Addons folder!
+=======
+Place Addon In Addons Folder!
 
-or just simply wait until i publish it on workshop
+
+
+========
+Updates
+========
+
+i am always busy so if you want to update this feel free
+i will look at the changes and i will approve it!
+
+
+
+==============
+Random Stuffs
+==============
+
+i feel like changing the name and making it completly my own addon
+but i will recode the addon so its my own,
+
+also im not that good at lua coding! this is my first one
