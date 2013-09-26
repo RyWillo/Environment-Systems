@@ -4,6 +4,6 @@
 	"version"     "1.2"
 	"author_name" "SoTotallyXray"
 	"author_url"  ""
-	"info"        ""
+	"info"        "some fixes and things by sototallyxray - but main code goes to my_hat_stinks "
 	"override"    "0"
 }
